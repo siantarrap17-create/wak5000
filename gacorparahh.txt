@@ -537,7 +537,7 @@
      
        <li class=" nav-menu container">
          <a href="https://opendtuning.org/">
-           <span style="color: #ffffff;">KODE 4D</span>
+           <span style="color: #ffffff;">WAK 5000</span>
            
      
        <li class=" nav-menu container">
@@ -1950,7 +1950,7 @@
      <path d="M1.51673 0.0583496L6.2334 4.77502L1.51673 9.49168L0.933398 8.90002L5.0584 4.77502L0.933398 0.650016L1.51673 0.0583496Z" fill="#757575"/>
  </svg></li>
        <li>WAK5000</li>
-       <li>KODE 4D</li>
+       <li>WAK 5000</li>
        <li>WAK5000 SLOT</li>
        <li>WAK5000 > SITUS SLOT AMANAH DAN TERBAIK DI INDONESIA TAHUN 2025</li>
      
@@ -2032,7 +2032,7 @@
      {
        "@type": "ListItem",
        "position": 2,
-       "name": "KODE 4D",
+       "name": "WAK 5000",
        "item": "https://opendtuning.org/"
      },
      {
@@ -2617,7 +2617,7 @@
        <div class="c-pdp-product-info">
          <ul class="c-pdp-product-info__service c-pdp-product-info__service--active">
            
-             <li><a href="https://opendtuning.org/">WAK5000</a> merupakan situs slot gacor berbasis online resmi di indonesia yang memiliki potensi kemenangan dengan RTP tertingi di kelasnya hingga 99.8% paling akurat dan telah di cobain dan dimenangkan oleh ribuan player di KODE 4D.</li>
+             <li><a href="https://opendtuning.org/">WAK5000</a> merupakan situs slot gacor berbasis online resmi di indonesia yang memiliki potensi kemenangan dengan RTP tertingi di kelasnya hingga 99.8% paling akurat dan telah di cobain dan dimenangkan oleh ribuan player di WAK 5000.</li>
            
            
            
@@ -3076,7 +3076,7 @@
      <div class="delivery-city mb-4">
          <a href="https://opendtuning.org/">
         <center><img src="https://onesnap.dev/images/2025/10/07/daftar-mahjong.gif" alt="logo-daftar" style="width: 260px; margin-top: -20px;"></center></a><br>
-   <h4 class="fw-600 text-uppercase mb-15" style="color: #ffd000;">WAKTUNYA DAFTAR AKUN BARU DI WAK5000 - KODE 4D!</h4>
+   <h4 class="fw-600 text-uppercase mb-15" style="color: #ffd000;">WAKTUNYA DAFTAR AKUN BARU DI WAK5000 - WAK 5000!</h4>
    <div class="row justify-content-between m-0">
      <select id="cities" class="form-control select-search" required>
        <option value="">Gabung dan dapatkan bonus new member hanya di WAK5000</option>
